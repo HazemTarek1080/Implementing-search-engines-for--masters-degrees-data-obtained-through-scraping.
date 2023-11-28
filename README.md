@@ -33,7 +33,7 @@ For a detailed understanding of the assignment requirements and problems, refer 
 
 
 ## Usage
-- Clone the repo using the command **git clone https://github.com/onurozansunger/ADM-HW3-Group-26/tree/main** in a bash script terminal.
+- Clone the repo using the command **git clone https://github.com/HazemTarek1080/Implementing-search-engines-for-analyzed-masters-degree-data-obtained-through-scraping..git** in a bash script terminal.
 - Open the Jupyter Notebook using your desired IDE and start following the instructions there in order to replicate the results.
 
 ## Collaborators
